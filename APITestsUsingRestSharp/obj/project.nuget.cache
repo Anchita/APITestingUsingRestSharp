@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHs+FV4MYM2GS/uZJWuHSXZVdDWj9Dd21hugidw/6sHmUKgLLDAEzrruxnVObbC6F5Yw3q6kZwfUSw/hOH19MQ==",
+  "success": true,
+  "projectFilePath": "/Users/aroras/Projects/APITestsUsingRestSharp/APITestsUsingRestSharp/APITestsUsingRestSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/aroras/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/restclient.net/6.0.0/restclient.net.6.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/restclient.net.abstractions/6.0.0/restclient.net.abstractions.6.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
+    "/Users/aroras/.nuget/packages/urls/1.0.0/urls.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
