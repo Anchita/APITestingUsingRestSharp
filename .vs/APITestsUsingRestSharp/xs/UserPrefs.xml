@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4DF000A5-23CB-482D-8140-190A38D61280}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APITestsUsingRestSharp">
+            <Node name="APITestingUsingRestSharp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ZipcodeAPITests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.APITestingUsingRestSharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

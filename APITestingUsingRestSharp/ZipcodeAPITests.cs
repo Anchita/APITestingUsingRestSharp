@@ -21,5 +21,6 @@ public class ZipcodeAPITests
         RestResponse response = client.Execute(request);
 
         Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+        Assert.That(response.ContentType, Is.EqualTo("application/json"));
     }
 }
