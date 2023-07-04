@@ -5,20 +5,32 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="APITestingUsingRestSharp/ZipcodeAPITests.cs">
+    <Files>
+      <File FileName="APITestingUsingRestSharp/ZipcodeAPITests.cs" Line="58" Column="4" />
+      <File FileName="APITestingUsingRestSharp/ResponseData/LocationResponse.cs" Line="14" Column="24" />
+      <File FileName="APITestingUsingRestSharp/ResponseData/Place.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="APITestsUsingRestSharp">
-            <Node name="APITestingUsingRestSharp" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="ZipcodeAPITests.cs" selected="True" />
+          <Node name="APITestsUsingRestSharp" expanded="True">
+            <Node name="APITestingUsingRestSharp">
+              <Node name="ResponseData" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="APITestsUsingRestSharp">
+            <Node name="APITestingUsingRestSharp" expanded="True">
+              <Node name="APITestingUsingRestSharp" expanded="True">
+                <Node name="ZipcodeAPITests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
