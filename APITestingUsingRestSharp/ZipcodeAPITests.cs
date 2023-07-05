@@ -1,6 +1,7 @@
 ﻿using System.Net;
 using RestSharp;
 using Newtonsoft.Json;
+using System.Text.Json;
 
 
 namespace APITestingUsingRestSharp;
@@ -51,5 +52,22 @@ public class ZipcodeAPITests
         locationResponse = JsonConvert.DeserializeObject<LocationResponse>(response.Content);
 
         Assert.That(locationResponse.CountryAbbreviation, Is.EqualTo("US"));
+    }
+
+    [Test]
+    public void StateSerializationTest()
+    {
+        LocationResponse locationResponse = new LocationResponse();
+
+        RestClient client = new RestClient("http://api.zippopotam.us");
+        RestRequest request = new RestRequest("us/12345", Method.Get);
+
+     
+        RestResponse response = client.Execute(request);
+
+        locationResponse =
+          JsonConvert.DeserializeObject<LocationResponse>(response.Content);
+
+        Assert.That(locationResponse.Places[0].State, Is.EqualTo("New York"));
     }
 }
